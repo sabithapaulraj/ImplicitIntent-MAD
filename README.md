@@ -126,6 +126,9 @@ public class MainActivity extends AppCompatActivity {
 ![WhatsApp Image 2024-03-14 at 06 51 15_84887dd5](https://github.com/sabithapaulraj/ImplicitIntent-MAD/assets/118343379/2729d57f-a5f7-4203-b71b-e810b4158ca6)
 ![WhatsApp Image 2024-03-14 at 06 51 07_cb9aea02](https://github.com/sabithapaulraj/ImplicitIntent-MAD/assets/118343379/39a09977-b939-4a89-aae1-ad6edc4ba760)
 
+## Working in Android Studio
+![Screenshot 2024-04-20 185358](https://github.com/sabithapaulraj/ImplicitIntent-MAD/assets/118343379/29067be1-075c-4c76-959c-cf4748b7a8fb)
+
 
 ## RESULT
 Thus a Simple Android Application create a navigate button using Implicit Intent to display the gmail page using Android Studio is developed and executed successfully.
